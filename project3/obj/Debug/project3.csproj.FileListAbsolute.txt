@@ -1,0 +1,7 @@
+C:\Users\FPTSHOP\source\repos\Project1\project3\obj\Debug\project3.csproj.AssemblyReference.cache
+C:\Users\FPTSHOP\source\repos\Project1\project3\obj\Debug\project3.csproj.CoreCompileInputs.cache
+C:\Users\FPTSHOP\source\repos\Project1\project3\bin\Debug\project3.exe.config
+C:\Users\FPTSHOP\source\repos\Project1\project3\bin\Debug\project3.exe
+C:\Users\FPTSHOP\source\repos\Project1\project3\bin\Debug\project3.pdb
+C:\Users\FPTSHOP\source\repos\Project1\project3\obj\Debug\project3.exe
+C:\Users\FPTSHOP\source\repos\Project1\project3\obj\Debug\project3.pdb
